@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1007538353998",
+    "project_id": "geyaan-pedia",
+    "storage_bucket": "geyaan-pedia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007538353998:android:3e4a7fe4adb2af4052101f",
+        "android_client_info": {
+          "package_name": "com.coderfaysal.geyaanpedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007538353998-l76d38dqt8pn731r6d8c7u0bpl6g1rtt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByj8eZAWpxQ2fwx_ITFMyM0P9oEWX-u-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007538353998-l76d38dqt8pn731r6d8c7u0bpl6g1rtt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
